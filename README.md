@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css">
     <link rel="icon" href="fa-solid fa-laptop-mobile" />
     <link rel="stylesheet" href="./ta22222aaaa.css">
-    <title>Qabas computer</title>
+    <title>Al zohbie</title>
 </head>
 
 <body>
